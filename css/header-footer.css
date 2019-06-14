@@ -1,9 +1,18 @@
 .header{
     margin: 0px;
-    background-color: black;
-    min-width: 100%;
+    background-color: #2F2063;
+    height: 20px;
+    padding-right: 15px; 
 }
 i{
-    color: black;
-    background-color: lightgray;
+    color: white;
+    padding-right: 5px;
+    display: inline-block;        
+}
+.header h5{
+    float:right;
+    color: white;
+}
+.icon{
+    float: right;    
 }
